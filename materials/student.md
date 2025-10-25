@@ -20,15 +20,10 @@
 |   9 | HARRAZ HAZIQ BIN AZLIM                         |                |        [:octocat:](https://github.com/)        |
 |  10 | ISMAIL BIN AMAN                                | oldpistol      | [:octocat:](https://github.com/oldpistol)      |
 |  11 | JANAVI RADHA A/P BALA                          |                |        [:octocat:](https://github.com/)        |
-|  12 | JUDE YOOGEN A/L GUNARATNAM                     |   JYoogen0706  |        [:octocat:](https://github.com/JYoogen0706)|
+|  12 | JUDE YOOGEN A/L GUNARATNAM                     |                |        [:octocat:](https://github.com/)        |
 |  13 | KARAN RAJ A/L ANBARASAN                        |                |        [:octocat:](https://github.com/)        |
-<<<<<<< HEAD
-|  14 | MALATHI A/P MOHANASUNDRAM                      |malathimohanasundram                |        [:octocat:](https://github.com/)        |
-|  15 | MOHAMAD ROSLAN BIN SAIDI                       |                |        [:octocat:](https://github.com/)        |
-=======
-|  14 | MALATHI A/P MOHANASUNDRAM                      |malathimohanasundram                 |        [:octocat:](https://github.com/)        |
+|  14 | MALATHI A/P MOHANASUNDRAM                      |                |        [:octocat:](https://github.com/)        |
 |  15 | MOHAMAD ROSLAN BIN SAIDI                       | rootchips       |        [:octocat:](https://github.com/rootchips)|
->>>>>>> 9b5cedfcad8b1bd451dd156215b6998084f50a00
 |  16 | MOHAMAD SHAHRIL BIN MOHAMMAD MAHFUD            |                |        [:octocat:](https://github.com/)        |
 |  17 | MOHAMED FIRDAUS BIN ZAIDI                      | pdotzzzmache   |        [:octocat:](https://github.com/)        |
 |  18 | MUHAMAD ARIF BIN JOHAR                         | xzrians        |    [:octocat:](https://github.com/xzrians)     |
@@ -43,7 +38,7 @@
 |  27 | MUHAMMAD SYAZWAN BIN NAZRI                     | syazwan-nazri  | [:octocat:](https://github.com/syazwan-nazri)  |
 |  28 | NABILAH BINTI ABD RAHMAN                       |                |        [:octocat:](https://github.com/)        |
 |  29 | NOOR AMERA SHAFINAZ BINTI MUHAMMAD AZMI        |                |        [:octocat:](https://github.com/)        |
-|  30 | NOR HAZIDA BINTI HAMDAN                        | hazida         |        [:octocat:](https://github.com/)        |
+|  30 | NOR HAZIDA BINTI HAMDAN                        |                |        [:octocat:](https://github.com/)        |
 |  31 | NUR FATHIN MARSHITAH BINTI MOHAMAD             |                |        [:octocat:](https://github.com/)        |
 |  32 | NURUL AIDATUL AISYQIN                          |                |        [:octocat:](https://github.com/)        |
 |  33 | RUPATARANI A/P PARAMASIVAM                     |                |        [:octocat:](https://github.com/)        |
@@ -54,7 +49,7 @@
 |  38 | KIGENDREN A/L SIVA KUMAR                       | Kigen26        |    [:octocat:](https://github.com/Kigen26)     |
 |  39 | SYAIFUL ALFRAIZA BIN AINI ABDULLAH             |syaifulalfraiza |        [:octocat:](https://github.com/)        |
 |  40 | AZIZUL ARIFF BIN PUAT NELSON                   |azizulnelson80  |    [https://github.com/azizulnelson80]         |
-
+|  41 | SUMATHI A/P KESAVAN                            | sumathi2510    |  (https://github.com/sumathi2510)               |
 ## Contribution 🛠️
 
 Please create an [Issue](https://github.com/drshahizan/mobile_apps/issues) for any improvements, suggestions or errors in the content.
